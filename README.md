@@ -4,20 +4,60 @@ This tech tree is designed to take you through the history of the human space pr
 
 What I did with this tree is create a linear approach to Research. The entire tree is broken down into space associated disciplines so you are not required to research new fuel tanks before you get bigger and better engines. This allows the player to drive their research focus. If you as the player wants to get the next tier of electronics to support your craft, you have that option.
 
-### TECH TREE TIERS
+## TECH TREE BRANCHES
+* ROCKETRY
+  * Rocket Engine Parts
+* JET ENGINES
+  * Jet Engine Parts
+* FUEL TANKS
+  * Rocket Fuel Tanks
+  * Liquid Fuel Tanks
+  * Advanced Fuel Tanks
+* AERODYNAMICS
+  * Fairings
+  * Advanced Wings
+  * Nose Cones
+  * Intakes
+* ENGINEERING
+  * Adapters
+  * Decouplers
+  * Landing Gear
+  * Service Bays
+  * Fuel Ducts
+  * Docking Ports
+  * Rover Wheels
+* FLIGHT CONTROL
+  * Probe Cores
+  * RCS
+  * MonoProp Tanks
+  * Winglets
+  * Reaction Wheels
+* CREW SUPPORT
+  * Command Pods
+  * Cockpits
+  * Parachutes
+  * Heat Shields
+  * Life Support
+* SCIENCE
+  * All Science Parts
+* ELECTRONICS & COMMUNICATIONS
+  * Power Generation
+  * Power Storage
+  * Antennas
+  * Heat Control
+ 
+
+## TECH TREE TIERS
 
 The tiers are organized from left to right and are listed in numerical order. These are the tiers and the corresponding years that I have used for the placement of the parts.
 
 **TIER 1: 1956 and Earlier**
-
 This only includes the starting node with many more parts moved to the starting node than in Stock. There are also a node for Wings and Structural Pieces to remove them from the other nodes.
 
 **TIER 2: 1957 - 1958**
-
 This was the era when we moved from Sounding Rockets to ICBM's and finally to our first satellites like Sputnik and Explorer 1.
 
 **TIER 3: 1959**
-
 During this time, humans successfully flew by the Moon with the Luna program as well as developed the first techniques of returning capsules from space.
 
 **TIER 4: 1960 - 1963**
@@ -47,3 +87,28 @@ Near future technologies. These are experimental things that are in development 
 **TIER 12: 2050 and beyond**
 These technologies have not been developed yet, or they are just on the drawing board. Things like Warp Drives and FTL travel and Nuclear Fusion will take us to the stars.
 
+## MOD CONFLICTS
+There will only be mod conflicts with mods that are new tech trees or move parts around in a different organization.
+
+* Community Tech Tree
+* Engineering Tech Tree
+* SETI Tech Tree
+* Unmanned Before Manned
+* RP-0
+* Open Tech Tree
+
+## SUPPORTED PARTS MODS
+Every parts mod will be supported out of the box as the design of the tech tree utilizes the existing nodes from the stock tech tree. For the most part, you will not have many conflicts as the parts will appear where the mod creator wanted them to. They will not necessarily show up in the exact proper place. If you would like to add support for your mod, please contact me. If you have a request for a mod to be fully supported, please let me know.
+
+* CryoEngines and CryoTanks
+* DMagic Orbital Science
+* Fuel Tanks Plus
+* SCANsat
+
+## FUTURE PLANS
+I will be adding full integration of more mods. My plan is to continue to update the tree with new mods added. The order I will integrate the mods is determined by which I used in my own saves first.
+
+## CHANGELOG
+
+* 1.0 - July 21, 2016
+  * Initial Release
