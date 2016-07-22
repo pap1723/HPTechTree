@@ -110,5 +110,21 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.1.1 - July 22, 2016
+  * NEW MOD SUPPORT
+    * RemoteTech
+
+* 1.1 - July 22, 2016
+  * 10m Inflatable Heat Shield moved to Actuators
+  * RC-0015 Remote Guidance Unit moved to Unamnned Tech
+  * RC-L01 Remote Guidance Unit moved to Advanced Unmanned Tech
+  * NEW MOD SUPPORT
+    * Kerbal Reusability Expansion
+    * Procedural Fairings
+    * Sample Capsule Return
+    * SETI Probe Parts
+    * SpaceY Heavy Lifters
+    * SpaceY Expanded
+
 * 1.0 - July 21, 2016
   * Initial Release
