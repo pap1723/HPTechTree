@@ -1,0 +1,19 @@
+{
+	"NAME":"Historical Progression Tech Tree",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=325",
+	"DOWNLOAD":"http://spacedock.info/mod/855/Historical%20Progression%20Tech%20Tree",
+	"CHANGE_LOG_URL":"http://spacedock.info/mod/855/Historical%20Progression%20Tech%20Tree",
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":3
+	}
+}
