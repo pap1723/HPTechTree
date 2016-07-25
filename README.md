@@ -110,6 +110,11 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.2 - July 24, 2016
+  * Fixed issue with Kerbal Reusability Expansion parts
+  * NEW MOD SUPPORT
+    * KW Rocketry
+	
 * 1.1.1 - July 22, 2016
   * NEW MOD SUPPORT
     * RemoteTech
