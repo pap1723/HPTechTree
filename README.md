@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Historical Progression Tech Tree
 
 This tech tree is designed to take you through the history of the human space program. I always felt like the stock tech tree was lacking and did not like the placement of the parts. There are other tech trees that utilize the stock tech tree and move parts around and that is what inspired me to create a new tech tree like this. The tree will start you with Unmanned parts before you progress to learning how to send Kerbals into Space safely.
@@ -286,6 +285,9 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.3.1 - August 2, 2106
+  * Fixed Github error that caused corrupted save file
+
 * 1.2 - July 24, 2016
   * Fixed issue with Kerbal Reusability Expansion parts
   * NEW MOD SUPPORT
@@ -308,5 +310,4 @@ I will be adding full integration of more mods. My plan is to continue to update
     * SpaceY Expanded
 
 * 1.0 - July 21, 2016
->>>>>>> origin/master
   * Initial Release
