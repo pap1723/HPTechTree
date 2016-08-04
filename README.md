@@ -285,7 +285,16 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
-* 1.3.1 - August 2, 2106
+* 1.4 - August 4, 2016
+  * NEW MOD SUPPORT
+  * Buffalo Rover
+  * FASA
+  * KAX
+  * MOLE
+  * USI Life Support
+  * Wild Blue Tools
+
+* 1.3.1 - August 2, 2016
   * Fixed Github error that caused corrupted save file
 
 * 1.2 - July 24, 2016
