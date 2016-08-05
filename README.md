@@ -285,6 +285,18 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.5 - August 5, 2016
+  * NEW MOD SUPPORT
+    * Sounding Rockets
+    * Raidernick's Mods
+      * Cygnus & Antares
+	  * Misc Parts
+	  * Skylab
+	  * US Probes
+	  * US Rockets
+    * Updated Kerbal Reusability Expansion with new parts
+  * Corrected the incorrect .VERSION file in the download
+  
 * 1.4 - August 4, 2016
   * NEW MOD SUPPORT
   * Buffalo Rover
