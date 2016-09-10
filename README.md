@@ -153,6 +153,26 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.7 - September 10, 2016
+  * Fixed issues with Cormorant Aeronology (Shuttle Lifting Body)
+  * Fixed issue with advMetalworks with the incorrect syntax (thanks Khantemplation)
+  * Moved stock Vernor Engine to Tier 2 so it can be used with the T-30 Reliant Engine
+  * NEW MOD SUPPORT
+    * Aviation Lights
+	* Coatl Aerospace
+	* kOS
+	* Modular Rocket Systems
+	* Real Scale Boosters
+	* RealChute
+	* SSTU
+	* TAC Life Support
+	* Tantares
+	* Tantares LV
+	* Raidernick's Mods (Proton, R7, Salyut, Soviet Probes, Soyuz)
+  * UPDATED MODS
+    * Kerbal Reusability Expansion
+	* Bluedog Design Bureau (Atlas *Muo* placement, H-1C placement, Juno Upper Stage placement)
+
 * 1.6 - August 16, 2016
   * NEW MOD SUPPORT
     * Airplane Plus
