@@ -153,6 +153,10 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.8 - October 26, 2016
+  * Updated with new 1.2 stock parts
+  * 1.2 Compatible
+  
 * 1.7 - September 10, 2016
   * Fixed issues with Cormorant Aeronology (Shuttle Lifting Body)
   * Fixed issue with advMetalworks with the incorrect syntax (thanks Khantemplation)
