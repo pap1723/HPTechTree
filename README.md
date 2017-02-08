@@ -153,6 +153,10 @@ I will be adding full integration of more mods. My plan is to continue to update
 
 ## CHANGELOG
 
+* 1.9 - February 8, 2017
+  * Updated to work with 1.2.2
+  * No longer includes Hide Empty Tech Tree Nodes, but it should be downloaded for the best experience
+  
 * 1.8 - October 26, 2016
   * Updated with new 1.2 stock parts
   * 1.2 Compatible
