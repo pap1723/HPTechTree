@@ -111,12 +111,15 @@ There will only be mod conflicts with mods that are new tech trees or move parts
 Every parts mod will be supported out of the box as the design of the tech tree utilizes the existing nodes from the stock tech tree. For the most part, you will not have many conflicts as the parts will appear where the mod creator wanted them to. They will not necessarily show up in the exact proper place. If you would like to add support for your mod, please contact me. If you have a request for a mod to be fully supported, please let me know.
 
 * Airplane Plus
-* Antenna Range
 * Atomic Age
+* Aviation Lights
+* BD Armory
 * Bluedog Design Bureau
 * Buffalo Rover
+* Coatl Aerospace
 * Cormorant Aeronology
 * Cryo Engine & Cryo Tanks
+* CxAerospace
 * DMagic Orbital Science
 * FASA
 * Fuel Tanks Plus
@@ -124,18 +127,29 @@ Every parts mod will be supported out of the box as the design of the tech tree 
 * Interstellar (through their side)
 * KAS
 * KAX
+* Kerbal Atomics
+* Kerbal Planetary Base Systems
 * Kerbal Reusability Expansion
 * Kerbalism
 * KIS
+* kOS
 * KW Rocketry
+* Lonesomr Robots Gemini & Agena
+* MechJeb
+* Mk2 Expansion
+* Modular Rocket Systems
 * MOLE
 * Near Future Packs
+* Pathfinder
+* Procedural Fairings
 * Raidernicks Mods
   * Cygnus & Antares
   * Misc Parts
   * Skylab
   * US Probes
   * US Rockets
+* Real Chute
+* Real Scale Boosters
 * RemoteTech
 * Sample Capsule Return
 * SCANsat
@@ -143,7 +157,15 @@ Every parts mod will be supported out of the box as the design of the tech tree 
 * Sounding Rockets
 * SpaceY Expanded
 * SpaceY Heavy Lifters
+* SSTU
+* Station Science
 * Surface Experiment Package
+* Tantares
+* Tantares (old pack)
+* Tantares Launch Vehicles
+* Tantares Launch Vehicles (old pack)
+* TAC Life Support
+* Universal Storage
 * USI Life Support
 * Vens Stock Revamp
 * Wild Blue Tools
@@ -152,6 +174,31 @@ Every parts mod will be supported out of the box as the design of the tech tree 
 I will be adding full integration of more mods. My plan is to continue to update the tree with new mods added. The order I will integrate the mods is determined by which I used in my own saves first.
 
 ## CHANGELOG
+
+* 2.0 - February 22, 2017
+  * Changed all tech costs from Tier 8 and later to better balance the tree and make the late game science more about exploring and less about waiting for Science Labs to generate enough science
+    * Tier 8 down from 550 to 500
+	* Tier 9  down from 1000 to 700
+	* Tier 10 down from 1500 to 900
+	* Tier 11 down from 2250 to 1100
+	* Tier 12  down from 4000 to 1300
+	* Tier 13  down from 4000 to 1500
+	* Tier 14  down from 4000 to 1700
+	* Tier 15  down from 4000 to 1900
+  * Reorganized folders to have all Mods in their own file
+  * NEW MOD SUPPORT
+    * CxAerospace
+	* Lonesome Robots Gemini & Agena
+  * MOD UPDATES
+    * Bluedog Design Bureau
+	* Cormorant Aeronology (Shuttle Lifting Body)
+	* Coatl Aerospace (0.15 RC)
+	* Kerbal Reusability Expansion
+	* MOLE
+	* SSTU
+	* Tantares
+	* TantaresLV
+
 
 * 1.9 - February 8, 2017
   * Updated to work with 1.2.2
